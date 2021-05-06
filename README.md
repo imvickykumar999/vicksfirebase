@@ -1,0 +1,2 @@
+# vicksfirebase
+git clone ...it
